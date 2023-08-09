@@ -1,0 +1,41 @@
+﻿index,img_name,condition,img_1,img_2,img_3,txt_1,txt_2,txt_3,trialType
+1,Corn,YY,stimuli/YY_corn_img1.png,stimuli/YY_corn_img2.png,stimuli/corn_img3.png,CORN,CORN,CORN,main
+2,Canoe,YN,stimuli/YN_canoe_img1.png,stimuli/YN_canoe_img2.png,stimuli/canoe_img3.png,PILLOW,PILLOW,CANOE,main
+3,Fishbowl,NY,stimuli/NY_fishbowl_img1.png,stimuli/NY_fishbowl_img2.png,stimuli/fishbowl_img3.png,FISHBOWL,FISHBOWL,FISHBOWL,main
+4,Scissors,NN,stimuli/NN_scissors_img1.png,stimuli/NN_scissors_img2.png,stimuli/scissors_img3.png,COFFEE,COFFEE,SCISSORS,main
+5,Dress,YN,stimuli/YN_dress_img1.png,stimuli/YN_dress_img2.png,stimuli/dress_img3.png,CHRISTMAS TREE,CHRISTMAS TREE,DRESS,main
+6,Key,YY,stimuli/YY_key_img1.png,stimuli/YY_key_img2.png,stimuli/key_img3.png,KEY,KEY,KEY,main
+7,Ring,NN,stimuli/NN_ring_img1.png,stimuli/NN_ring_img2.png,stimuli/ring_img3.png,BREAKFAST,BREAKFAST,RING,main
+8,Football,NY,stimuli/NY_football_img1.png,stimuli/NY_football_img2.png,stimuli/football_img3.png,FOOTBALL,FOOTBALL,FOOTBALL,main
+9,Crown,YY,stimuli/YY_crown_img1.png,stimuli/YY_crown_img2.png,stimuli/crown_img3.png,CROWN,CROWN,CROWN,main
+10,Washing Machine,YN,stimuli/YN_washing machine_img1.png,stimuli/YN_washing machine_img2.png,stimuli/washing machine_img3.png,PACKAGE,PACKAGE,WASHING MACHINE,main
+11,Tent,YY,stimuli/YY_tent_img1.png,stimuli/YY_tent_img2.png,stimuli/tent_img3.png,TENT,TENT,TENT,main
+12,Sailboat,YN,stimuli/YN_sailboat_img1.png,stimuli/YN_sailboat_img2.png,stimuli/sailboat_img3.png,GOLF COURSE,GOLF COURSE,SAILBOAT,main
+13,Backpack,NY,stimuli/NY_backpack_img1.png,stimuli/NY_backpack_img2.png,stimuli/backpack_img3.png,BACKPACK,BACKPACK,BACKPACK,main
+14,Cake,YY,stimuli/YY_cake_img1.png,stimuli/YY_cake_img2.png,stimuli/cake_img3.png,CAKE,CAKE,CAKE,main
+15,Monkey,YN,stimuli/YN_monkey_img1.png,stimuli/YN_monkey_img2.png,stimuli/monkey_img3.png,SCORPION,SCORPION,MONKEY,main
+16,Sunflower,NY,stimuli/NY_sunflower_img1.png,stimuli/NY_sunflower_img2.png,stimuli/sunflower_img3.png,SUNFLOWER,SUNFLOWER,SUNFLOWER,main
+17,Garbage Can,NN,stimuli/NN_garbage can_img1.png,stimuli/NN_garbage can_img2.png,stimuli/garbage can_img3.png,NOSE,NOSE,GARBAGE CAN,main
+18,Bat,YN,stimuli/YN_bat_img1.png,stimuli/YN_bat_img2.png,stimuli/bat_img3.png,UMBRELLA,UMBRELLA,BAT,main
+19,Snake,NN,stimuli/NN_snake_img1.png,stimuli/NN_snake_img2.png,stimuli/snake_img3.png,CHESTNUT,CHESTNUT,SNAKE,main
+20,Fireplace,YY,stimuli/YY_fireplace_img1.png,stimuli/YY_fireplace_img2.png,stimuli/fireplace_img3.png,FIREPLACE,FIREPLACE,FIREPLACE,main
+21,Ladybug,NY,stimuli/NY_ladybug_img1.png,stimuli/NY_ladybug_img2.png,stimuli/ladybug_img3.png,LADYBUG,LADYBUG,LADYBUG,main
+22,Acorn,YN,stimuli/YN_acorn_img1.png,stimuli/YN_acorn_img2.png,stimuli/acorn_img3.png,CLOUD,CLOUD,ACORN,main
+23,Book,YY,stimuli/YY_book_img1.png,stimuli/YY_book_img2.png,stimuli/book_img3.png,BOOK,BOOK,BOOK,main
+24,Beehive,NN,stimuli/NN_beehive_img1.png,stimuli/NN_beehive_img2.png,stimuli/beehive_img3.png,SQUIRREL,SQUIRREL,BEEHIVE,main
+25,Carousel,YN,stimuli/YN_carousel_img1.png,stimuli/YN_carousel_img2.png,stimuli/carousel_img3.png,HOUSE,HOUSE,CAROUSEL,main
+26,Angel,NN,stimuli/NN_angel_img1.png,stimuli/NN_angel_img2.png,stimuli/angel_img3.png,MILK,MILK,ANGEL,main
+27,Carrot,YY,stimuli/YY_carrot_img1.png,stimuli/YY_carrot_img2.png,stimuli/carrot_img3.png,CARROT,CARROT,CARROT,main
+28,Gate,NN,stimuli/NN_gate_img1.png,stimuli/NN_gate_img2.png,stimuli/gate_img3.png,GRASSHOPPER,GRASSHOPPER,GATE,main
+29,Airplane,NY,stimuli/NY_airplane_img1.png,stimuli/NY_airplane_img2.png,stimuli/airplane_img3.png,AIRPLANE,AIRPLANE,AIRPLANE,main
+30,Swing Set,NN,stimuli/NN_swing set_img1.png,stimuli/NN_swing set_img2.png,stimuli/swing set_img3.png,POND,POND,SWING SET,main
+31,Telephone,YN,stimuli/YN_telephone_img1.png,stimuli/YN_telephone_img2.png,stimuli/telephone_img3.png,INK BOTTLE,INK BOTTLE,TELEPHONE,main
+32,Anchor,NY,stimuli/NY_anchor_img1.png,stimuli/NY_anchor_img2.png,stimuli/anchor_img3.png,ANCHOR,ANCHOR,ANCHOR,main
+33,Rocket,YY,stimuli/YY_rocket_img1.png,stimuli/YY_rocket_img2.png,stimuli/rocket_img3.png,ROCKET,ROCKET,ROCKET,main
+34,Iron,YN,stimuli/YN_iron_img1.png,stimuli/YN_iron_img2.png,stimuli/iron_img3.png,JACKET,JACKET,IRON,main
+35,Strawberry,NY,stimuli/NY_strawberry_img1.png,stimuli/NY_strawberry_img2.png,stimuli/strawberry_img3.png,STRAWBERRY,STRAWBERRY,STRAWBERRY,main
+36,Windmill,YY,stimuli/YY_windmill_img1.png,stimuli/YY_windmill_img2.png,stimuli/windmill_img3.png,WINDMILL,WINDMILL,WINDMILL,main
+37,Mouse,NY,stimuli/NY_mouse_img1.png,stimuli/NY_mouse_img2.png,stimuli/mouse_img3.png,MOUSE,MOUSE,MOUSE,main
+38,Turkey,NN,stimuli/NN_turkey_img1.png,stimuli/NN_turkey_img2.png,stimuli/turkey_img3.png,NEEDLE,NEEDLE,TURKEY,main
+39,Cactus,NY,stimuli/NY_cactus_img1.png,stimuli/NY_cactus_img2.png,stimuli/cactus_img3.png,CACTUS,CACTUS,CACTUS,main
+40,Palm Tree,NN,stimuli/NN_palm tree_img1.png,stimuli/NN_palm tree_img2.png,stimuli/palm tree_img3.png,PUDDING,PUDDING,PALM TREE,main

@@ -1,0 +1,9 @@
+﻿index,img_name,condition,img_1,img_2,img_3,txt_1,txt_2,txt_3,trialType
+0,Ballerina,YY,stimuli/YY_ballerina_img1.png,stimuli/YY_ballerina_img2.png,stimuli/ballerina_img3.png,BALLERINE,BALLERINE,BALLERINE,practice
+0,Castle,NN,stimuli/NN_castle_img1.png,stimuli/NN_castle_img2.png,stimuli/castle_img3.png,BALLE,BALLE,CHÂTEAU,practice
+0,Astronaut,YN,stimuli/YN_astronaut_img1.png,stimuli/YN_astronaut_img2.png,stimuli/astronaut_img3.png,POT,POT,ASTRONAUTE,practice
+0,Guitar,NN,stimuli/NN_guitar_img1.png,stimuli/NN_guitar_img2.png,stimuli/guitar_img3.png,ÉTOILE,ÉTOILE,GUITARE,practice
+0.5,Church,NY,stimuli/NY_church_img1.png,stimuli/NY_church_img2.png,stimuli/church_img3.png,ÉGLISE,ÉGLISE,ÉGLISE,practice
+0.5,Saw,YN,stimuli/YN_saw_img1.png,stimuli/YN_saw_img2.png,stimuli/saw_img3.png,DRAPEAU,DRAPEAU,SCIE,practice
+0.5,Milk Carton,YY,stimuli/YY_milk carton_img1.png,stimuli/YY_milk carton_img2.png,stimuli/milk carton_img3.png,CARTON DE LAIT,CARTON DE LAIT,CARTON DE LAIT,practice
+0.5,Clown,NY,stimuli/NY_clown_img1.png,stimuli/NY_clown_img2.png,stimuli/clown_img3.png,CLOWN,CLOWN,CLOWN,practice
