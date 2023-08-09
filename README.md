@@ -29,7 +29,7 @@ BADE Images is a cognitive task designed to detect the bias against disconfirmat
 This version can be completed in English or French with repeated admininstrations using different image sets. Pre/Post versions are already developed as described below and a larger bank of 352 images is available upon request. The task consists of 40 trials with 4 conditions (2 confirm, 2 disconfirm with 10 trials each) reflecting expected response patterns (Yes-Yes, No-No, No-Yes, Yes-No). 
 
 <p align="center">
-  <img src="https://github.com/carodak/BADE-Images-Pre/tree/main/documentation/bade_images.gif" width="100%" height="100%"/>
+  <img src="https://github.com/carodak/BADE-Images-Pre/blob/main/documentation/bade_images.gif" width="100%" height="100%"/>
 </p>
 
 ## Development
